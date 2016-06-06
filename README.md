@@ -8,6 +8,5 @@ The Project June is where I am going to:
 
 |Previous projects||
 |-----------------|---------------|
-|Project January|Jan 2016|
-|Project March|Mar 2016|
+|UX Project|Project MoFiMe|
 
