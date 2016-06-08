@@ -9,4 +9,3 @@ The Project June is where I am going to:
 |Previous projects||
 |-----------------|---------------|
 |UX Project|Project MoFiMe|
-
